@@ -22,18 +22,26 @@ Executive View: Get high-level insights with KPI cards and revenue breakdowns.
 # Data Sources
 The dashboard gathers data from two primary sources:
 
-# Excel/CSV Files: 
+Excel/CSV Files: 
 Targets and Market Share data, along with related information, are collected from Excel and CSV files.
-# MySQL Database:
+MySQL Database:
 Essential facts and dimensions for all departments are pulled from a MySQL database.
 
-Skills Learned
+# Skills Learned
 Power BI data modeling
+
 DAX calculations
+
 Compelling visualization techniques
+
 Data interpretation
+
 Dashboard design principles
+
 User-centric design
+
 Stakeholder communication
+
 File size optimization using DAX Studio
+
 Data integration from various sources like Excel/CSV files, MySQL database, etc
