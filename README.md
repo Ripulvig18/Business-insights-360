@@ -6,7 +6,7 @@ This project is a comprehensive Power BI dashboard developed to analyze and visu
 
 Live Dashboard
 
-Explore the live dashboard: https://app.powerbi.com/view?r=eyJrIjoiOTczZWQ0MGItMzMxYy00ZjdhLWJlOWMtOWM1NmVmYTZlZmM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Explore the live dashboard [here.](https://app.powerbi.com/view?r=eyJrIjoiOTczZWQ0MGItMzMxYy00ZjdhLWJlOWMtOWM1NmVmYTZlZmM1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 Features
 Finance View: Explore P&L statements, product analysis, and net sales trends.
